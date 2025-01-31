@@ -1,0 +1,17 @@
+{
+    "T41Ys30To[E-1aPAt`{3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAPAAAAAAAA8PEAAAAAAP//Hw8AAADwERER8QAAAAD/HxHxAAAAAAAfEfEAAAAAAB8R8QAAAAAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mouseClicked"
+    },
+    "g-fZ`kxNnxNl2,RD_0rz": {
+        "data": "hwQQABAAAAD//////w8AAB8RERHxAAAA8BEREQ8AAAAAHxHxAAAAAADwEfEAAAAAAAAf8QAAAAAAAPDxAAAAAAAAAP8AAAAAAAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mouseNotClicked"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
